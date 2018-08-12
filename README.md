@@ -1,2 +1,1 @@
-"# r0ckrat-test" 
-This is edited in the Edit branch.
+<h1>Just another practice GitHub Repository.</h1>
